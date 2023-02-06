@@ -21,7 +21,7 @@ Install the latest Cookiecutter and Pipenv:
 
 Generate the project:
 
-    cookiecutter gh:crmne/cookiecutter-modern-datascience
+    cookiecutter gh:Koffair/cookiecutter-modern-datascience
 
 Get inside the project:
 
